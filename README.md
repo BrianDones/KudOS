@@ -2,7 +2,6 @@ kudOS-2014
 ============
 
 This is my Fall 2014 Operating Systems class initial project.
-See http://www.labouseur.com/courses/os/ for details.
 
 Project 1 (DONE!!!)
 ============
